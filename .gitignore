@@ -20,3 +20,14 @@ Desktop.ini
 # ============================================
 *.log
 npm-debug.log*
+
+# ============================================
+# Obsidian — user-specific workspace state
+# ============================================
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ============================================
+# Private reference images (Yuval inspiration)
+# ============================================
+yuval/reference/

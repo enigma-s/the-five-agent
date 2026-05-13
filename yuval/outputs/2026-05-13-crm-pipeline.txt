@@ -1,0 +1,7 @@
+A cheerful flat design illustration of a sales pipeline with four colorful rounded stages flowing left to right: Lead (coral orange), Meeting (teal green), Deal (sky blue), Close (golden yellow). Each stage is a large rounded bubble icon with a simple friendly symbol inside (magnifying glass, handshake, document, star). Bright saturated colors on a clean off-white background, bold outlines, playful rounded shapes, warm and approachable mood. Style inspired by colorful childrens toy aesthetics, vibrant, joyful, never cold or corporate. Horizontal composition, flat design, no gradients.
+
+Model: gpt-image-2
+Size: 1536x1024
+Quality: medium
+Date: 2026-05-13
+Reference: yuval/reference/ליבי.jpeg (warm saturated palette, rounded playful shapes, joyful mood)

@@ -9,6 +9,7 @@
 - [[Skills/_index|Skills]] — כל ה-skills הזמינים תחת `.claude/skills/`
 - [[Obsidian Config/_index|Obsidian Config]] — תצורת אפליקציית Obsidian (`.obsidian/`)
 - [[Meeting Notes/_index|Meeting Notes]] — יומני עבודה, החלטות, ארכיטקטורה
+- [[Content Briefs/_index|Content Briefs]] — משימות תוכן: כתבות, פוסטים, תוצרי הצוות המלא (חן+יעל+יובל)
 
 ## Read Order for a Cold Start
 
