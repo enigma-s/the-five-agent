@@ -8,3 +8,4 @@
 - [[skill-creator-install]] — התקנת `skill-creator` הרשמי ב-project scope; commit `4e9d768`
 - [[yael-agent-creation]] — יצירת sub-agent יעל (`.claude/agents/yael.md`) + תשתית `Content/` / `Output/` / `yael/`
 - [[yuval-agent-creation]] — יצירת sub-agent יובל + סקיל `gpt-image-gen` (model `gpt-image-2`) + חיבור יעל→יובל דרך `{{IMAGE_NEEDED}}` placeholders
+- [[chen-agent-creation]] — יצירת sub-agent חן (WebSearch+WebFetch) + memory log + תהליכים A/B/C ב-CLAUDE.md
